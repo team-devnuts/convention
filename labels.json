@@ -1,0 +1,62 @@
+[
+    {
+      "name": "⚙ Setting",
+      "color": "e3dede",
+      "description": "개발 환경 세팅"
+    },
+    {
+      "name": "✨ Feature",
+      "color": "a2eeef",
+      "description": "기능 개발"
+    },
+    {
+      "name": "🌏 Deploy",
+      "color": "C2E0C6",
+      "description": "배포 관련"
+    },
+    {
+      "name": "🎨 Layout",
+      "color": "FEF2C0",
+      "description": "안드로이드 UI"
+    },
+    {
+      "name": "🐞 BugFix",
+      "color": "d73a4a",
+      "description": "Something isn't working"
+    },
+    {
+      "name": "📬 API",
+      "color": "D4C5F9",
+      "description": "서버 API 통신"
+    },
+    {
+      "name": "🔨 Refactor",
+      "color": "f29a4e",
+      "description": "코드 리팩토링"
+    },
+    {
+      "name": "🙋‍♂️ Question",
+      "color": "9ED447",
+      "description": "Further information is requested"
+    },
+    {
+      "name": "✅ Test",
+      "color": "ccffc4",
+      "description": "test 관련(storybook, jest...)"
+    },
+    {
+      "name": "🔥 Review",
+      "color": "D70879",
+      "description": "검토요청 + 닉네임"
+    },
+    {
+      "name": "👦 Chris",
+      "color": "000000",
+      "description": "크리스"
+    },
+    {
+      "name": "🎅 Cheolsu",
+      "color": "ffffff",
+      "description": "철수"
+    }
+  ]
